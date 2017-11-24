@@ -1,3 +1,5 @@
+import tests
+
 def setup():
     pass
     
