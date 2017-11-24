@@ -41,6 +41,10 @@ If not already installed, you must:
 
 This project uses [semantic versioning](http://semver.org/). For the versions available, see the tags on this repository.
 
+## License
+
+This project is licensed under the Unlicense - see the [LICENSE](LICENSE) file for details.
+
 ## Authors
 
 * [**Jeremy Douglass**](https://github.com/jeremydouglass) - *Initial work*
