@@ -1,7 +1,7 @@
 import tests
 
 def setup():
-    pass
+    tests.run() # run all tests
     
 def draw():
     pass
